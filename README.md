@@ -1,1 +1,1 @@
-This is just a project to learn react router
+AI resume analyzer utilizing React Router, TailwindCSS, Zustand and Puter.js
